@@ -1,0 +1,7 @@
+metric,value
+items,110197.0
+total_price,13221498.11
+total_freight,2198275.64
+freight_ratio_overall,0.1663
+median_item_freight_ratio,0.2318
+share_items_freight_exceeds_price,0.0364

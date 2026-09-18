@@ -1,0 +1,3 @@
+route,items,total_price,total_freight,avg_freight,freight_ratio
+cross state,70331,9087193.44,1662101.55,23.63,0.1829
+same state,39866,4134304.67,536174.09,13.45,0.1297

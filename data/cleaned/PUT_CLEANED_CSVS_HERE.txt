@@ -1,0 +1,16 @@
+Drop the twelve cleaned CSVs here (from the cleaned/ folder of olist_cleaned.zip):
+
+category_translation_patched.csv
+customers_clean.csv
+geolocation_by_zip.csv
+order_items_agg.csv
+order_items_clean.csv
+orders_clean.csv
+payments_agg.csv
+payments_clean.csv
+products_clean.csv
+reviews_clean.csv
+reviews_dedup.csv
+sellers_clean.csv
+
+Or run  python cleaning/clean.py  from the project root to regenerate them from data/raw/.

@@ -1,0 +1,13 @@
+metric,value
+judged_orders,94458.0
+late_orders,6357.0
+late_rate,0.0673
+mean_score_on_time,4.29
+mean_score_late,2.269
+score_gap,2.021
+score_gap_ci_low,1.981
+score_gap_ci_high,2.06
+share_1_2_star_on_time,0.0926
+share_1_2_star_late,0.6248
+late_revenue_brl,949935.07
+excess_bad_reviews_from_lateness,3383.0
